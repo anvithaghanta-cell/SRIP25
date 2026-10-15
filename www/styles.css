@@ -1,0 +1,33 @@
+
+.navbar-nav .nav-link {
+  color: #f5f5f5 !important; 
+}
+
+
+.navbar-nav .nav-link.active {
+  color: #8B0000 !important; 
+  font-weight: bold;
+}
+
+
+body {
+  background-color: #000;
+}
+
+
+
+h4 {
+  color: #F4F5F0;
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+p {
+  color: #F4F5F0 ;
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+
+.btn {
+  border-radius: 8px;
+  font-weight: 600;
+}
